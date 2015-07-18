@@ -1,4 +1,4 @@
-# js_core_curri 
+﻿# js_core_curri 
 
 intro
 http://jsfiddle.net/pouy_jsstudy/n6tnv4ef/
@@ -23,7 +23,7 @@ http://jsfiddle.net/pouy_jsstudy/n6tnv4ef/
 4 생성자함수를 직접 정의해보자 + var선언 ---------- http://jsfiddle.net/pouy_jsstudy/kg3r13nu/
 5 JS 객체의 종류: native, host, custom ---------------- http://jsfiddle.net/pouy_jsstudy/Ltgb2j21/
  
-#심화: 
+심화: 
 http://www.slideshare.net/heejaekim85/javascript-33832492 자바스크립트 객체생성 패턴
 http://www.bsidesoft.com/318 자바스크립트에서 new는 어떤일을 하는가?
 http://www.bsidesoft.com/319#%ea%b7%b8-%ec%99%b8%ec%9d%98-%ed%99%9c%ec%9a%a9 특히 포스팅에서 <2.함수가 생성될 때 일어나는 일>을 보면, 객체생성과정을 디테일하게 설명함.
@@ -47,10 +47,10 @@ http://www.bsidesoft.com/319#%ea%b7%b8-%ec%99%b8%ec%9d%98-%ed%99%9c%ec%9a%a9 특
 7.4.3 함수객체의 디폴트 프로토타입 변경3 - http://jsfiddle.net/pouy_jsstudy/r2drhgyj/
 7.5 prototype프로퍼티로 JS객체지향 맛보기 - http://jsfiddle.net/pouy_jsstudy/vr4o7yah/
 
-  #서브예제:
+서브예제:
 http://jsfiddle.net/pouy_jsstudy/ung8hrx6/
-#참고: http://www.ecma-international.org/ecma-262/5.1/ 표준 ECMA-262 v5.1 
-##추가참고: ‘깨우치다’ 129p 참고.
+참고: http://www.ecma-international.org/ecma-262/5.1/ 표준 ECMA-262 v5.1 
+추가참고: ‘깨우치다’ 129p 참고.
 
 
 
@@ -101,7 +101,7 @@ http://jsfiddle.net/pouy_jsstudy/ung8hrx6/
 4.4.8 클로저 주의3(4.4소스와함께) - http://jsfiddle.net/pouy_jsstudy/zqqeLh5y/
 
 
-#참고: 
+참고: 
 http://www.nextree.co.kr/p7363/
 
 
