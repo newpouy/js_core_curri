@@ -1,15 +1,20 @@
 ﻿# js_core_curri 
 
 intro
+
 http://jsfiddle.net/pouy_jsstudy/n6tnv4ef/
 
 
 0 자바스크립트 데이터타입과 연산자
 
 1 기본타입 --------------------------------------------------   http://jsfiddle.net/pouy_jsstudy/am287h9k/
+
 2 참조타입 ----------------------------------------------------   http://jsfiddle.net/pouy_jsstudy/bntj91w9/
+
 3 함수호출call by value vs call by reference----------  http://jsfiddle.net/pouy_jsstudy/z6j87c7e/
+
 4 기본타입과 표준메서드  --------------------------------  http://jsfiddle.net/pouy_jsstudy/564cv53u/
+
 5 연산자 ------------------------------------------------------  http://jsfiddle.net/pouy_jsstudy/1jo2skuc/
 
 
