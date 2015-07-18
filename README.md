@@ -1,20 +1,24 @@
 ﻿# js_core_curri 
 
-introcv4
+##intro##
 
 http://jsfiddle.net/pouy_jsstudy/n6tnv4ef/
 
 
-0 자바스크립트 데이터타입과 연산자
+##0 자바스크립트 데이터타입과 연산자##
 
 1 기본타입 --------------------------------------------------   http://jsfiddle.net/pouy_jsstudy/am287h9k/
+
 2 참조타입 ----------------------------------------------------   http://jsfiddle.net/pouy_jsstudy/bntj91w9/
+
 3 함수호출call by value vs call by reference----------  http://jsfiddle.net/pouy_jsstudy/z6j87c7e/
+
 4 기본타입과 표준메서드  --------------------------------  http://jsfiddle.net/pouy_jsstudy/564cv53u/
+
 5 연산자 ------------------------------------------------------  http://jsfiddle.net/pouy_jsstudy/1jo2skuc/
 
 
-1 자바스크립트 객체
+##1 자바스크립트 객체##
 
 1 객체만들기 --------- ---------------------------------------http://jsfiddle.net/pouy_jsstudy/ktqs5vtz/
 
@@ -23,7 +27,9 @@ http://jsfiddle.net/pouy_jsstudy/n6tnv4ef/
 2.2 for in문과 delete로 프로퍼티보기/삭제 ------------http://jsfiddle.net/pouy_jsstudy/bdL3g66f/
 
 3 객체가 일하게 하자 function ---------------------------http://jsfiddle.net/pouy_jsstudy/djogo2u9/
+
 4 생성자함수를 직접 정의해보자 + var선언 ---------- http://jsfiddle.net/pouy_jsstudy/kg3r13nu/
+
 5 JS 객체의 종류: native, host, custom ---------------- http://jsfiddle.net/pouy_jsstudy/Ltgb2j21/
  
 심화: 
