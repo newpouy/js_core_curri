@@ -14,12 +14,14 @@ http://jsfiddle.net/pouy_jsstudy/n6tnv4ef/
 5 연산자 ------------------------------------------------------  http://jsfiddle.net/pouy_jsstudy/1jo2skuc/
 
 
-
 1 자바스크립트 객체
 
 1 객체만들기 --------- ---------------------------------------http://jsfiddle.net/pouy_jsstudy/ktqs5vtz/
+
 2.1 객체의 속성property 사용하기 ----------------------- http://jsfiddle.net/pouy_jsstudy/Lrvgtx13/
+
 2.2 for in문과 delete로 프로퍼티보기/삭제 ------------http://jsfiddle.net/pouy_jsstudy/bdL3g66f/
+
 3 객체가 일하게 하자 function ---------------------------http://jsfiddle.net/pouy_jsstudy/djogo2u9/
 4 생성자함수를 직접 정의해보자 + var선언 ---------- http://jsfiddle.net/pouy_jsstudy/kg3r13nu/
 5 JS 객체의 종류: native, host, custom ---------------- http://jsfiddle.net/pouy_jsstudy/Ltgb2j21/
