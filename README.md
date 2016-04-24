@@ -257,3 +257,5 @@ https://developer.mozilla.org/ko/docs/Web/JavaScript/Memory_Management
 
 
 
+7. ECMAScript2015(ECMAScript6)
+http://nodejs.github.io/nodejs-ko/articles/2015/05/11/story-about-js-and-babel/
